@@ -1,0 +1,2 @@
+[30-Nov-2012 00:09:32 UTC] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/himznhu1/public_html/ovodaijel.hu/tmp.php on line 1
+[30-Nov-2012 00:09:32 UTC] PHP Warning:  file_put_contents() [<a href='function.file-put-contents'>function.file-put-contents</a>]: Filename cannot be empty in /home/himznhu1/public_html/ovodaijel.hu/tmp.php on line 1
